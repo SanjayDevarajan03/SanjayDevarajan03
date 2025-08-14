@@ -38,7 +38,7 @@
 
 <h3 align="center">Currently Learning</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,databricks,azure" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=pytorch,azure" alt="Currently Learning" />
 </p>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=are021&theme=synthwave&show_icons=true" alt="Areeb's GitHub stats" />
