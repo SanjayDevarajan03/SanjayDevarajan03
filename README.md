@@ -20,12 +20,12 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,java" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,java" alt="Languages and Tools" />
 </p>
 
 <h3 align="center">Frameworks and Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,django,flask,django,flutter,sklearn,fastapi" alt="Frameworks and Libraries" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,django,flask,flutter,sklearn,fastapi" alt="Frameworks and Libraries" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> 
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" /> 
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
