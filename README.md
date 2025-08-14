@@ -20,7 +20,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Python,R,SQL,Java" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,java" alt="Languages and Tools" />
 </p>
 
 <h3 align="center">Frameworks and Libraries</h3>
